@@ -33,7 +33,7 @@ la solucion aplica principios de encapsulamiento mediante atributos privados her
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/matiaslv207code/LlanquihueTour
 ```
 
 2. Abre el proyecto completo en tu entorno intellij idea
@@ -47,5 +47,5 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \git clone https://github.com/matiaslv207code/LlanquihueTour
 **Fecha de entrega:** \[08/06/2025]
